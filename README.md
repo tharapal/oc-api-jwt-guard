@@ -1,7 +1,7 @@
 # October CMS Restfull API Guard with JWT
 ####(Guarded by Json Web Tokens)
 ### (oc-api-jwt-guard)
-![jwt-auth-banner](https://github.com/tharapal/oc-api-jwt-guard/windlab_logo.png)
+![jwt-auth-banner](https://github.com/tharapal/oc-api-jwt-guard/blob/master/windlab_logo.png)
 
 A plugin to guard RESTFull API for Occtober CMS using JSON Web Tokens library composed by using [JWT Auth Library](https://github.com/tymondesigns/jwt-auth) for further enhancements
 
