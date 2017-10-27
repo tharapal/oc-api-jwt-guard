@@ -1,0 +1,15 @@
+{
+    "name": "windlab/apijwtguard",
+    "description": "A plugin to guard RESTFull API using JWT library for October CMS using Tymon/JWTAuth package",
+    "type": "library",
+    "require": {
+        "tymon/jwt-auth": "^0.5.12"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tharanga Jayasinghe",
+            "email": "tharanga@palvision.com"
+        }
+    ]
+}

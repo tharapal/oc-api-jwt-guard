@@ -1,0 +1,3 @@
+/vendor/
+/updates/*
+composer.lock
