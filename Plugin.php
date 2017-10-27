@@ -81,7 +81,7 @@ class Plugin extends PluginBase
      */
     public function registerNavigation()
     {
-        return []; // Remove this line to activate
+       // return []; // Remove this line to activate
 
         return [
             'apijwtguard' => [
